@@ -1,10 +1,9 @@
 #include <stdio.h>
 
-/*
- * main - Entry point
- * prints string
- *
- * return - 0
+/**
+ * main - prints a string that inputs the functions
+ * Description: Prints "Pogramming is like building a multilingual puzzle"
+ * return: Always 0 (Success)
  */
 
 int main(void)
